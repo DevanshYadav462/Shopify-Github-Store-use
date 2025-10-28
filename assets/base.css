@@ -2,10 +2,6 @@
   box-sizing: border-box;
 }
 
-.announcement-bar {
-    background: red !important;
-}
-
 body {
   color: var(--color-foreground);
   background: var(--color-background);
